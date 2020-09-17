@@ -1,1 +1,1 @@
-some contetnt
+some content
